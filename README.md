@@ -53,8 +53,8 @@ Soy un apasionado de la tecnología y el desarrollo de software, con una sólida
 ---
 
 ## 📫 Conecta conmigo
-* **LinkedIn:** [Tu enlace aquí]
-* **Portfolio:** [Tu enlace aquí o "En construcción"]
+* **LinkedIn:** [[Tu enlace aquí]](https://www.linkedin.com/in/pablo-abad-ortega-27236a397/)
+* **Portfolio:** ["En construcción"]
 
 ---
 <p align="center">

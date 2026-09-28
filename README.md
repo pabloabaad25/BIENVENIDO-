@@ -1,14 +1,7 @@
-<div align="center">
-  <h1>👋 ¡Hola! Soy Pablo Abad Ortega</h1>
-  <p><strong>Desarrollador Multiplataforma & Administrador de Sistemas</strong></p>
+# ¡Hola! Soy Pablo Abad Ortega 👋
+### Desarrollador Multiplataforma & Administrador de Sistemas
 
-  <!-- Badges de Estado y Especialidad -->
-  <p>
-    <img src="https://shields.io" alt="Foco" />
-    <img src="https://shields.io_|_Adaptable-24292e?style=for-the-badge" alt="Perfil" />
-    <img src="https://komarev.com" alt="Visitas" />
-  </p>
-</div>
+![Foco Actual](https://shields.io) ![Perfil](https://shields.io) ![Visitas](https://komarev.com)
 
 ---
 
@@ -18,11 +11,7 @@ Soy un profesional enfocado en el **desarrollo multiplataforma, la gestión de b
 ---
 
 ### 🏆 Logros de GitHub
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Mis Trofeos" />
-  </a>
-</p>
+[![Mis Trofeos](https://vercel.app)](https://github.com)
 
 ---
 
@@ -38,56 +27,24 @@ Soy un profesional enfocado en el **desarrollo multiplataforma, la gestión de b
 
 ### 🛠️ Stack Tecnológico
 
-<b style="font-size: 1.1em;">Lenguajes de Programación</b>
-<p align="left">
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-</p>
+#### **Lenguajes de Programación**
+![Java](https://shields.io) ![Python](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) ![JavaScript](https://shields.io) ![Kotlin](https://shields.io) ![HTML5](https://shields.io)
 
-<b style="font-size: 1.1em;">Bases de Datos y Datos Estructurados</b>
-<p align="left">
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io🗂️-555555?style=flat-square" height="25" />
-</p>
+#### **Bases de Datos y Estructuración**
+![SQL](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![MariaDB](https://shields.io) ![Oracle](https://shields.io) ![XML](https://shields.io)
 
-<b style="font-size: 1.1em;">Sistemas y Herramientas</b>
-<p align="left">
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-  <img src="https://shields.io" height="25" />
-</p>
+#### **Sistemas y Herramientas**
+![Linux](https://shields.io) ![Windows Server](https://shields.io) ![Git](https://shields.io) ![Unity](https://shields.io) ![Unreal Engine](https://shields.io) ![Android SDK](https://shields.io)
 
 ---
 
 ### 📊 Métricas de Rendimiento
 
-<p align="center">
-  <img align="left" src="https://vercel.app" alt="Lenguajes" width="48%" />
-  <img align="right" src="https://vercel.app" alt="Estadísticas" width="48%" />
-</p>
-<br clear="both" />
+![Lenguajes más usados](https://vercel.app)
+![Estadísticas de GitHub](https://vercel.app)
 
 ---
 
 ### 🤝 Conectemos
-<p align="left">
-  <a href="mailto:pablo.abadgirona2019@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+[![Email](https://shields.io)](mailto:pablo.abadgirona2019@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
